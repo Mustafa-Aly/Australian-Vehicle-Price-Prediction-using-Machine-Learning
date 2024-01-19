@@ -1,7 +1,10 @@
 This is a Regression Problem to Predict the Price of the Australian Vehicle
 The dataset from kaggle "https://www.kaggle.com/datasets/nelgiriyewithana/australian-vehicle-prices/data"
+
 This dataset contains the latest information on car prices in Australia for the year 2023. It covers various brands, models, types, and features of cars sold in the Australian market.
+
 -Note : please read the requirement File to see the version of the libraries to not be any error if you run the code later 
+
 First step : Exploration the Data , Handling and Cleaning ( Cleaning_and_Handeling_Dataset.ipynb ) :
   This some of the Handling and cleaning the Dataset:
   - Merge Brand and Model 
