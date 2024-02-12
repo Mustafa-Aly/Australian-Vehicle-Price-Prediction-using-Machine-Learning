@@ -46,4 +46,7 @@ In this step I do my best to get the best possible accuracy using different tech
 Fourth Step : Deployment can see in this Link https://australian-vehicle-price-prediction-using-machine-learning-xed.streamlit.app/
 I used StreamLit to deploy the model and it was so helpful 
 
- 
+Here some analysis of the Project 
+![Dashboard 2](https://github.com/Mustafa-Aly/Australian-Vehicle-Price-Prediction-using-Machine-Learning/assets/129996921/e3975ea6-d983-4fc7-951b-8c3a77a759ac)
+![Dashboard 1](https://github.com/Mustafa-Aly/Australian-Vehicle-Price-Prediction-using-Machine-Learning/assets/129996921/4a7598b5-d791-4f08-a2c4-5fbab0d1c6b4)
+
